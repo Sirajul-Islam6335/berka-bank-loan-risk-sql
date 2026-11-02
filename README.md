@@ -291,4 +291,4 @@ python scripts/make_charts.py
 ## 👤 Author
 
 **Sirajul Islam**
-Data Analytics, Aston University · [GitHub](https://github.com/Sirajul-Islam6335)
+, Data Analytics, Aston University · [GitHub](https://github.com/Sirajul-Islam6335)
