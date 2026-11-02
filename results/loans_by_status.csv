@@ -1,0 +1,5 @@
+status_code,status_desc,loans,total_amount,avg_amount
+A,Finished - repaid,203,18603216.00,91641
+B,Finished - not repaid,31,4362348.00,140721
+C,Running - up to date,403,69078372.00,171410
+D,Running - in arrears,45,11217804.00,249285

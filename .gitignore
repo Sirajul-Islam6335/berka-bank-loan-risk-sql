@@ -1,0 +1,17 @@
+# Raw data: ~70 MB
+data/raw/*.asc
+data/raw/*.zip
+
+# Local settings
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+*.swp

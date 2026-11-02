@@ -1,0 +1,22 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "berka_bank",
+      "driver": "PostgreSQL",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5433,
+      "database": "berka_bank",
+      "username": "postgres",
+      "askForPassword": true,
+      "connectionTimeout": 30
+    }
+  ],
+  "sqltools.highlightQuery": true,
+  "files.associations": {
+    "*.sql": "sql"
+  },
+  "editor.rulers": [100],
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}

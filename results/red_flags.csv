@@ -1,0 +1,7 @@
+red_flag,loans_with_flag,bad_rate_with_flag,bad_rate_without_flag
+Overdrawn before the loan,27,100.0,7.5
+Balance under 10k in last 90 days,93,43.0,6.1
+Repayment over 20% of income,162,19.1,8.7
+Loan over 200k CZK,185,18.9,8.2
+No household bills paid from account,256,16.8,7.7
+Single-user account,537,14.2,0.0
