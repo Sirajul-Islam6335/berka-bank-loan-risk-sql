@@ -288,5 +288,7 @@ python scripts/make_charts.py
 - **This is 1990s data from a single bank.** Specific patterns (a cash-heavy economy, no lending to pensioners) will not transfer directly to a modern UK bank, but the approach and method will.
 
 ---
+## 👤 Author
 
-**Sirajul Islam** ·  Data Analytics, Aston University · [GitHub](https://github.com/Sirajul-Islam6335)
+**Sirajul Islam**
+Data Analytics, Aston University · [GitHub](https://github.com/Sirajul-Islam6335)
